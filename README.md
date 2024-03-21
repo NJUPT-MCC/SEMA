@@ -1,6 +1,6 @@
 ![Python 3.8](https://img.shields.io/badge/python-3.8-green.svg)
 ![Packagist](https://img.shields.io/badge/Pytorch-1.9.0-red.svg)
-# SEMA: Semantic Distance Adversarial Learning for Text-to-Image Synthesis
+# SEMA: Semantic Distance Adversarial Learning for Text-to-Image Synthesis (TMM' 23)
 
 Official Pytorch implementation for our paper Semantic Distance Adversarial Learning for Text-to-Image Synthesis
 
